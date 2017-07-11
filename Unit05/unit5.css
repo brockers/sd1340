@@ -1,0 +1,11 @@
+.userForm{ 
+	border: 1px; 
+	width: 400px; 
+	padding: 10px; 
+}
+
+.userTitle{ 
+	width: 400px; 
+	padding: 10px; 
+	text-align: center; 
+}
